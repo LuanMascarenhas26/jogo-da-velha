@@ -3,10 +3,10 @@
 |   | 1 | 2 | 3 |
 |---|---|---|---|
 | A |   |   |   |
-| B | ❌  |   |   |
+| B |   |   |   |
 | C |   |   |   |
 
 **jogadores**
 
-- ❌ Primeiro jogador 
-- ⭕ Segundo jogador
+- ❌ luan 
+- ⭕ luan
