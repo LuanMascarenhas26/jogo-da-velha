@@ -8,5 +8,5 @@
 
 **jogadores**
 
-- ❌ luan 
+- ❌ luan VENCEDOR
 - ⭕ luan
